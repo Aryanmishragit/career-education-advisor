@@ -1,10 +1,4 @@
-# 📌 Problem Statement
-
-## ID: 25094  
-**Title:** One-Stop Personalized Career & Education Advisor  
-**Organization:** Government of Jammu and Kashmir  
-**Department:** Higher Education Department  
-**Category:** Software  
+# 📌 Problem Statement 
 
 ---
 

@@ -1,12 +1,16 @@
-# 🌐 Web App (Frontend)
+# 🌐 Web App (React.js)
 
-This folder will contain the **React.js frontend code** for the platform.  
+This folder will contain the **React.js frontend code** for the Career & Education Advisor platform.  
 
 ### Planned Features
-- Student dashboard
-- Aptitude & Interest quiz
-- Course-to-Career mapping charts
-- College directory (location-based search)
-- Timeline tracker for admissions & scholarships
+- Student Dashboard
+- Aptitude & Interest Quiz (with dummy data first)
+- Course-to-Career Path Mapping
+- College Directory
+- Timeline Tracker
 
-📌 Status: Placeholder (no code yet)
+### Next Step
+- Initialize a React project using:
+  ```bash
+  npx create-react-app web
+

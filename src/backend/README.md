@@ -1,14 +1,15 @@
-# ⚙️ Backend (Server)
+This folder will contain the **server-side code** of the Career & Education Advisor platform.  
 
-This folder will contain the **server-side code** of the project.  
-Planned stack:
-- Node.js
-- Express.js
-- MongoDB (Database)
-
-### Responsibilities
-- Handle APIs for quizzes, colleges, career data
+### Planned Features
+- REST APIs for:
+  - Aptitude Quiz results
+  - Course-to-Career mapping
+  - College directory
 - Authentication & user profiles
-- AI recommendation logic (future)
+- Database integration (MongoDB)
 
-📌 Status: Placeholder (no code yet)
+### Next Step
+- Initialize backend using:
+  ```bash
+  npm init -y
+  npm install express mongoose cors
